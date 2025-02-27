@@ -394,24 +394,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\josuh\\.nuget\\packages\\": {}
+    "C:\\Users\\josuh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josuh\\RiderProjects\\Magazijnapp\\backend\\Magazijnapp.Api\\Magazijnapp.API.csproj",
+      "projectUniqueName": "C:\\Users\\josuh\\RiderProjects\\magazijnapp\\backend\\Magazijnapp.api\\Magazijnapp.API.csproj",
       "projectName": "Magazijnapp.API",
-      "projectPath": "C:\\Users\\josuh\\RiderProjects\\Magazijnapp\\backend\\Magazijnapp.Api\\Magazijnapp.API.csproj",
+      "projectPath": "C:\\Users\\josuh\\RiderProjects\\magazijnapp\\backend\\Magazijnapp.api\\Magazijnapp.API.csproj",
       "packagesPath": "C:\\Users\\josuh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josuh\\RiderProjects\\Magazijnapp\\backend\\Magazijnapp.Api\\obj\\",
+      "outputPath": "C:\\Users\\josuh\\RiderProjects\\magazijnapp\\backend\\Magazijnapp.api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\josuh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\josuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

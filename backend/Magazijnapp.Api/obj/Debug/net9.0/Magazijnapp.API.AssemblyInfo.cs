@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Magazijnapp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13d9c4f387ffb9f4ae25f1d3a1e5434b955f059b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce2c500a062fc017a1e63a321f429e13260daf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Magazijnapp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Magazijnapp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
